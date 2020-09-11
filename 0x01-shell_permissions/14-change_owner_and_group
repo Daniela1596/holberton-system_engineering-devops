@@ -1,2 +1,3 @@
 #!/bin/bash
-chowm betty:holberton -R
+chown betty:holberton -R .
+
